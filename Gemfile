@@ -34,6 +34,7 @@ end
 
 
 gem 'puma'
+gem 'rails_config'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
